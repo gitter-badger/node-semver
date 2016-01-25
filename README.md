@@ -1,6 +1,8 @@
 semver(1) -- The semantic versioner for npm
 ===========================================
 
+[![Join the chat at https://gitter.im/cpigat/node-semver](https://badges.gitter.im/cpigat/node-semver.svg)](https://gitter.im/cpigat/node-semver?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Usage
 
     $ npm install semver
